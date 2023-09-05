@@ -1,0 +1,19 @@
+{
+	"name": "express_weather",
+	"description": "World Weather",
+	"version": "0.0.2",
+	"dependencies": {
+		"cors": "*",
+		"ejs": "*",
+		"express": "*",
+		"node-fetch": "*",
+		"package": "^1.0.1"
+	},
+	"engines": {
+		"node": ">=8.0.0",
+		"npm": ">=6.0.0"
+	},
+	"scripts": {
+		"start": "node server.js"
+	}
+}
